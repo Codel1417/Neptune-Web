@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Neptune-Discord-Bot
 
-You can use the [editor on GitHub](https://github.com/Codel1417/Neptune-Web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A Discord Bot based on the character neptune from HyperDimension Neptunia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Java CI with Maven](https://github.com/Codel1417/Neptune-Discord-Bot/workflows/Java%20CI%20with%20Maven/badge.svg) ![Discord](https://img.shields.io/discord/545567251575865365)
 
-### Markdown
+[Invite Link](https://discordapp.com/api/oauth2/authorize?client_id=545565550768816138&permissions=37087296&scope=bot)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sources
 
-```markdown
-Syntax highlighted code block
+Built using the [Discord JDA Library by DV8FromTheWorld](https://github.com/DV8FromTheWorld/JDA)
+Music folder is from the YUI bot's Lavaplayer implimentation.
 
-# Header 1
-## Header 2
-### Header 3
+Errors are handled silently in the background as to not spam the chat with useless errors.
 
-- Bulleted
-- List
+## Notable Bot Features
 
-1. Numbered
-2. List
+* Play quotes from the Neptunia Games in Voice Chat on a server
+* Translate the previous message into NepNep
+* English to UwU translator
+* Server logging
+* Image Upscaling
+* Even more jpeg
 
-**Bold** and _Italic_ and `Code` text
+## Commands
 
-[Link](url) and ![Image](src)
-```
+![Commands](https://github.com/Codel1417/Neptune-Discord-Bot/blob/master/IMAGES/10-14-2020-Commands.png?raw=true)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Codel1417/Neptune-Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+"!Nep help" can bring up the complete list of commands.
